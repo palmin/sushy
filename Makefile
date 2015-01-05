@@ -8,6 +8,7 @@ export STATIC_PATH?=static
 export DATABASE_PATH?=/tmp/sushy.db
 
 # Experimental zip bundle
+
 BUNDLE=sushy.zip
 export PYTHONPATH=$(BUNDLE)
 
